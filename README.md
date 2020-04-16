@@ -5,3 +5,9 @@ A Mobile Application with Flutter to search for Movies using the Open API of IMD
 This was build using Minimalistic UI Principles.
 
 
+Main Page                              
+:-------------------------:
+![](https://github.com/AbdulMalikDev/IMDBMovieListFlutter/blob/master/Home%20Screen.jpg?raw=true)|![]
+
+
+
