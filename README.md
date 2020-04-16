@@ -4,6 +4,8 @@ A Mobile Application with Flutter to search for Movies using the Open API of IMD
 
 This was build using Minimalistic UI Principles.
 
+<br />
+<br />
 
 Main Page                              
 :-------------------------:
